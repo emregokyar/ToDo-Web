@@ -26,4 +26,4 @@ A web-based To-Do application with user management, allowing users to register, 
 - **Hibernate** (ORM Framework)
 - **MySQL** (Database Management)
 - **Spring Security** (Authentication & Authorization)
-- **Thymeleaf / React (Optional for Frontend)**
+- **Thymeleaf**
