@@ -27,10 +27,12 @@ A web-based To-Do application with user management, allowing users to register, 
 - **MySQL** (Database Management)
 - **Spring Security** (Authentication & Authorization)
 - **Thymeleaf**
-- <img width="850" alt="Screenshot 2025-04-06 at 00 04 14" src="https://github.com/user-attachments/assets/8bac1cc9-cbd3-44e2-96c3-569d003f7ffd" />
-<img width="1472" alt="Screenshot 2025-04-06 at 00 04 41" src="https://github.com/user-attachments/assets/130384ba-f2c4-426b-8d68-6a39d6742c3c" />
-<img width="1509" alt="Screenshot 2025-04-06 at 00 05 27" src="https://github.com/user-attachments/assets/a08d3ac3-3d73-4a91-aa9b-f746b560c3d5" />
-<img width="1394" alt="Screenshot 2025-04-06 at 00 05 37" src="https://github.com/user-attachments/assets/c6a417ff-c3d8-41aa-93ab-b650e20a1be1" />
-<img width="1448" alt="Screenshot 2025-04-06 at 00 08 49" src="https://github.com/user-attachments/assets/2dbdfff5-88a7-453c-bfc2-ecdd7bb41d76" />
-<img width="817" alt="Screenshot 2025-04-06 at 00 09 09" src="https://github.com/user-attachments/assets/6a060528-34f8-4b6c-ace0-668c44b116ea" />
+
+## Photos
+<img width="850" alt="Screenshot 2025-04-06 at 00 04 14" src="https://github.com/user-attachments/assets/ed76eb95-624e-4294-a8de-f8c23b569049" />
+<img width="1472" alt="Screenshot 2025-04-06 at 00 04 41" src="https://github.com/user-attachments/assets/1a3f9c1b-0669-444b-b34e-a0fbdfe00f16" />
+<img width="1509" alt="Screenshot 2025-04-06 at 00 05 27" src="https://github.com/user-attachments/assets/aaf57c1e-d5c5-49e9-9e51-5cf654d23d82" />
+<img width="1394" alt="Screenshot 2025-04-06 at 00 05 37" src="https://github.com/user-attachments/assets/30b0fe29-2131-4eed-8c6a-818cc3f7204b" />
+<img width="1448" alt="Screenshot 2025-04-06 at 00 08 49" src="https://github.com/user-attachments/assets/aa2c0f00-b925-42b7-ac47-e79c74692f7a" />
+<img width="817" alt="Screenshot 2025-04-06 at 00 09 09" src="https://github.com/user-attachments/assets/f8ad3ed3-6477-4ce2-bf0d-4e66ed7388b2" />
 
